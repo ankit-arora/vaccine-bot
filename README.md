@@ -1,0 +1,1 @@
+[Instructions to run this script are here](https://www.notion.so/Vaccine-Bot-Instructions-ceae045da64341008ee152a67569ca8e)
